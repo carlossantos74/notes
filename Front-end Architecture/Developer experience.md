@@ -6,14 +6,14 @@ The idea was influenced by the “user experience” concept (UX), a similar con
 
 ## Conceptual framework
 
-![[Screenshot 2024-07-30 at 18.55.19.png]]
+![Screenshot 2024-07-30 at 18.55.19.png](Screenshot%202024-07-30%20at%2018.55.19.png)
 
 DX consists of experiences relating to all kinds of artifacts and activities that a developer may encounter as part of their involvement in software development. These could roughly be divided into experiences regarding 
 1. development infrastructure (e.g. development and management tools, programming languages, libraries, platforms, frame- works, processes, and methods;
 2. feelings about work (e.g. respect, attachment, belonging);
 3. the value of one’s own contribution (e.g. alignment of one’s own goals with those of the project, plans, intentions, and commitment);
 
-![[Screenshot 2024-07-30 at 19.02.07.png]]
+![Screenshot 2024-07-30 at 19.02.07.png](Screenshot%202024-07-30%20at%2019.02.07.png)
 
 ## Productivity and Job Satisfaction
 
