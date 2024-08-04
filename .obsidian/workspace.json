@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "29db76a752e87598",
+        "id": "b1a855bd8e4fca1b",
         "type": "tabs",
         "children": [
           {
-            "id": "aad6cc7bca8909b7",
+            "id": "199e5f4b001104ac",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-end Architecture/Developer experience.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-end Architecture/Developer experience.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Front-end Architecture/Developer experience.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -142,10 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4ad333295eeed9c",
+  "active": "199e5f4b001104ac",
   "lastOpenFiles": [
-    "README.md",
     "Front-end Architecture/Developer experience.md",
+    "README.md",
     "Front-end Architecture/assets/Screenshot 2024-07-30 at 18.55.19.png",
     "Front-end Architecture/References/developer-experience-concept-and-definition.pdf",
     "Untitled.canvas",
