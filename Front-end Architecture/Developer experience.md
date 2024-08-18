@@ -40,6 +40,41 @@ Why happened: **We couldn't connect in our servers**
 A help to fix it: **Please try to connect again**
 A way out: **If the issue keeps happing, contact the support**
 
+## Developer Tools and Productivity 
+
+One of the key factors to increase productivity with Developer Tools is their performance, more specifically their interaction latency. Software development is an iterative process; we develop based on feedback. With slow development tools, the feedback may take time to generate.
+
+This can result in distractions or lead developers to switch to other work while waiting for the tool's response. Frequent context switching can affect focus, which is essential to cognitive abilities when developing software.
+
+Another point is Developer Tools that are hard to use, where developers can't infer the behaviors or what they can do with them. This can cause more distraction, as the development process becomes non-linear when the developer has to stop development to consult documentation or look for solutions to errors that are not well described by the tool.
+
+## Business Performance 
+
+### The Business Dimensions of Developer Productivity
+
+The impact of Developer Experience (DX) on productivity is significant. A [study from Stripe and Evans Data Corp](https://stripe.com/files/reports/the-developer-coefficient.pdf) shows that developers lose about 42% of their time on maintenance tasks, resulting in nearly $300 billion in lost productivity annually. Poor DX leads to more bugs, increased QA efforts, and additional development cycles, causing delayed releases and higher costs.
+
+Investing in better DX allows companies to optimize their resources. Time saved can be redirected to revenue-generating activities like new feature development or market expansion, ultimately improving Return on Investment (ROI).
+
+##### DX as a Strategic Investment
+
+- Wide-ranging effects:
+    - Accelerates innovation cycles
+    - Helps attract top talent
+    - Enhances customer satisfaction
+    - Mitigates risks
+- Shift in perspective:
+    - Companies should view DX as a strategic investment rather than a cost center
+- Long-term benefits:
+    - Optimizes operations
+    - Sets the foundation for long-term profitability and success
+
+
+
+## DX to serve UX
+
+Happier Developers build a good User Experiences, Baddest Developers build a bad User Experience 
+
 
 
 --- 
@@ -47,3 +82,5 @@ A way out: **If the issue keeps happing, contact the support**
 
 - https://ieeexplore.ieee.org/document/6225984/authors#authors
 - https://dx.addy.ie/
+- https://stripe.com/files/reports/the-developer-coefficient.pdf
+- 
