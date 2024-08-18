@@ -73,7 +73,13 @@ Investing in better DX allows companies to optimize their resources. Time saved 
 
 ## DX to serve UX
 
-Happier Developers build a good User Experiences, Baddest Developers build a bad User Experience 
+The argument often made is that user experience (UX) should take precedence over developer experience (DX) when there's a conflict between the two. The idea is supported by the AMP design principle which states that the end-user experience should be prioritized, even if it complicates the process for developers. This approach is seen as reasonable because improving UX typically leads to a better return on investment (ROI). However, it's also important to recognize that creating a great user experience should involve a positive developer experience. Developers generally fall into two categories: those who build tools and libraries for other developers, and those who use these tools to create end-user applications. While both groups need a good DX, the primary responsibility of application developers is to deliver a good UX. To promote good UX, the first group of developers should consider strategies that ensure their tools facilitate a seamless end-user experience.
+
+Good developer experience (DX) encourages more developers to innovate and create using a particular technology, as people tend to choose the easiest path when building user experiences. Therefore, a clear focus on both DX and UX is crucial. A strong DX can expand the pool of developers working on a platform, even those who might not have had the time or expertise to contribute otherwise.
+
+Tools designed for creating user experiences should be low-friction for developers while enabling the delivery of high-quality user experiences (UX) efficiently. If these tools also help manage growing applications and reduce maintenance costs, both developers and users benefit.
+
+Additionally, good DX can lead to better UX for less privileged users. Developers should be guided to make the right choices by default and clearly understand the trade-offs, ensuring that their end-users, regardless of wealth, receive a positive experience
 
 
 
