@@ -89,4 +89,3 @@ Additionally, good DX can lead to better UX for less privileged users. Developer
 - https://ieeexplore.ieee.org/document/6225984/authors#authors
 - https://dx.addy.ie/
 - https://stripe.com/files/reports/the-developer-coefficient.pdf
-- 
