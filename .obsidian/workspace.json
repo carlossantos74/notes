@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end Architecture/PRPL Pattern.md",
+                "file": "Front-end Architecture/RAIL model.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-end Architecture/PRPL Pattern.md",
+                "file": "Front-end Architecture/RAIL model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-end Architecture/PRPL Pattern.md",
+                "file": "Front-end Architecture/RAIL model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-end Architecture/PRPL Pattern.md"
+                "file": "Front-end Architecture/RAIL model.md"
               }
             }
           }
@@ -148,10 +148,11 @@
   },
   "active": "41866eadbc20c2ec",
   "lastOpenFiles": [
+    "Front-end Architecture/PRPL Pattern.md",
+    "Front-end Architecture/RAIL model.md",
     "Front-end Architecture/assets/my-prpl-app.zip",
     "README.md",
     "Front-end Architecture/Developer experience.md",
-    "Front-end Architecture/PRPL Pattern.md",
     "Front-end Architecture/assets/my-prpl-app/README.md",
     "Front-end Architecture/assets/my-prpl-app/src/pages/product/[id].js",
     "Front-end Architecture/assets/my-prpl-app/src/pages/api/hello.js",
@@ -162,7 +163,6 @@
     "Front-end Architecture/assets/my-prpl-app/src/pages/api",
     "Front-end Architecture/assets/my-prpl-app/src/pages/_document.js",
     "Front-end Architecture/assets/my-prpl-app/src/pages/_app.js",
-    "Front-end Architecture/assets/my-prpl-app/src/components/RelatedProducts.js",
     "Front-end Architecture/assets/my-prpl-app/public/window.svg",
     "Front-end Architecture/assets/my-prpl-app/public/vercel.svg",
     "Front-end Architecture/assets/my-prpl-app/public/next.svg",
