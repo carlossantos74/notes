@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end Architecture/RAIL model.md",
+                "file": "Front-end Architecture/PRPL Pattern.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RAIL model"
-            }
-          },
-          {
-            "id": "300a270596c063c9",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "PRPL Pattern"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,10 +158,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "300a270596c063c9",
+  "active": "41866eadbc20c2ec",
   "lastOpenFiles": [
-    "Front-end Architecture/PRPL Pattern.md",
     "Front-end Architecture/RAIL model.md",
+    "Front-end Architecture/PRPL Pattern.md",
     "Front-end Architecture/assets/my-prpl-app.zip",
     "README.md",
     "Front-end Architecture/Developer experience.md",
