@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end Architecture/PRPL Pattern.md",
+                "file": "Software Architecture/References.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PRPL Pattern"
+              "title": "References"
             }
           }
         ]
@@ -158,11 +158,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1e3017e31888520a",
+  "active": "41866eadbc20c2ec",
   "lastOpenFiles": [
-    "Untitled",
-    "Front-end Architecture/RAIL model.md",
     "Front-end Architecture/PRPL Pattern.md",
+    "Software Architecture/References.md",
+    "Software Architecture",
+    "Front-end Architecture/RAIL model.md",
     "Front-end Architecture/assets/my-prpl-app.zip",
     "README.md",
     "Front-end Architecture/Developer experience.md",
@@ -175,7 +176,6 @@
     "Front-end Architecture/assets/my-prpl-app/src/pages/index.js",
     "Front-end Architecture/assets/my-prpl-app/src/pages/api",
     "Front-end Architecture/assets/my-prpl-app/src/pages/_document.js",
-    "Front-end Architecture/assets/my-prpl-app/src/pages/_app.js",
     "Front-end Architecture/assets/my-prpl-app/public/window.svg",
     "Front-end Architecture/assets/my-prpl-app/public/vercel.svg",
     "Front-end Architecture/assets/my-prpl-app/public/next.svg",
